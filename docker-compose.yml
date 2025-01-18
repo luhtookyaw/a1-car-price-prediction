@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  app:
+    image: barry4holly/car_price_app-app:latest
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=False  # Set DEBUG to False for production
+    command: python manage.py runserver 0.0.0.0:8000

@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    image: barry4holly/car_price_app-app:latest
+    image: barry4holly/car_price_app:latest
     ports:
       - "8000:8000"
     environment:

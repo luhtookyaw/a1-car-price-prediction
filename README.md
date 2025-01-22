@@ -17,6 +17,14 @@ This project predicts car prices using a Django-based web application integrated
 
 ![image info](./screenshots/prediction_without_one_field.png)
 
+# Installation
+
+## Clone the repository
+
+```
+git clone https://github.com/luhtookyaw/a1-car-price-prediction.git
+```
+
 ## Install Python Packages
 Go to app folder:
 

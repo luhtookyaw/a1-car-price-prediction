@@ -5,6 +5,18 @@ You can access the live website at http://54.255.189.239:8000/
 
 This project predicts car prices using a Django-based web application integrated with a trained Random Forest Regressor model. It also includes Jupyter notebooks for exploratory data analysis (EDA) and model training. The entire setup is containerized with Docker for ease of deployment and reproducibility.
 
+## Home Page
+
+![image info](./screenshots/homepage.png)
+
+## Example Prediction
+
+![image info](./screenshots/prediction.png)
+
+## Example Prediction without One Field
+
+![image info](./screenshots/prediction_without_one_field.png)
+
 ## Install Python Packages
 Go to app folder:
 
